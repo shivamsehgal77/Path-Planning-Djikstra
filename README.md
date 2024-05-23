@@ -7,16 +7,16 @@ time, pygame, numpy, queue
 
 # Sample Planning Scene
 - Obstacle Space is represented in Red Color
-- Explored nodes are represented in Green Golor
-- Final Path is represented by the black line.
+- Explored nodes are represented in Green Color
+- Final Path is represented by the Black Color.
 
-## Sample 1
+## Sample 1 (Demonstrates that Code Works)
 - Start Position- (6,9)
 - Goal Position-  (69,69)
 
 ![Sample Path Planning Scene](https://github.com/shivamsehgal77/Path-Planning-Djikstra/assets/112571645/aec9df5c-5e3e-4dc8-bbf9-81517479a51d)
 
-## Sample 2
+## Sample 2 (Demonstrates Obstacle Avoidance)
 - Start Position - (10,10)
 - Goal Position  - (450,100)
 
