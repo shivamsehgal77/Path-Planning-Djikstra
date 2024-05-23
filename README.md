@@ -6,7 +6,4 @@ time, pygame, numpy, queue
 
 
 
-
-
-https://github.com/shivamsehgal77/Path-Planning-Djikstra/assets/112571645/dfd87320-19ef-4aa2-b152-ad3bdf0c556e
-
+![Sample Path Planning Scene](https://github.com/shivamsehgal77/Path-Planning-Djikstra/assets/112571645/aec9df5c-5e3e-4dc8-bbf9-81517479a51d)
